@@ -490,6 +490,13 @@ progress {
 .lead {
   font-size: 1.25rem;
   font-weight: 300;
+  text-align: left;
+}
+
+
+.lead2 {
+  font-size: 1.25rem;
+  font-weight: 300;
 }
 
 .display-1 {
